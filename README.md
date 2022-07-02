@@ -1,2 +1,6 @@
-# TIL
-Today I Learnedâš¡
+# TIL (Today I Learned)
+±â¾ïÀº ±â·ÏÀ» ÀÌ±æ ¼ö ¾ø´Ù°í ÇÏ³×¿ä..
+
+## ETC
+* [Markdown](./ETC/markdown.md)
+* [Ä¿¹Ô ¸Ş½ÃÁö °¡ÀÌµå](./ETC/commit_message_rule.md)
